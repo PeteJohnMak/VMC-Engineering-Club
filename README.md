@@ -1,2 +1,2 @@
 # VMC-Engineering-Club
-We building an electric ATV using a chain and sprocket system.
+We're building an electric ATV using a chain and sprocket system.
